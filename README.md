@@ -1,3 +1,4 @@
+<pre>
        File:	docs/answers.txt
 Description:	Text file containing the answers to the questions
 		posed in Section 3E.
@@ -5,6 +6,7 @@ Description:	Text file containing the answers to the questions
       Class:	CEN 4020.0003
  Project #1:	Git and Object Oriented Programming Warm-Up
         Due:	02/03/2019
+</pre>
 
 # 3.
 ## E.

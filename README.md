@@ -1,16 +1,15 @@
 # Git_Testing_Ground
-A private repository to serve as a testing ground to experiment and practice using Git and GitHub features.
+A private repository to serve as a testing ground to experiment and
+practice using Git and GitHub features.
 
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-*        File:	docs/answers.txt				      *
-* Description:	Text file containing the answers to the questions     *
-*		posed in Section 3E.				      *
-*								      *
-*        Name:	William Owenby					      *
-*       Class:	CEN 4020.0003					      *
-*  Project #1:	Git and Object Oriented Programming Warm-Up	      *
-*         Due:	02/03/2019					      *
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+       File:	docs/answers.txt
+Description:	Text file containing the answers to the questions
+		posed in Section 3E.
+
+       Name:	William Owenby
+      Class:	CEN 4020.0003
+ Project #1:	Git and Object Oriented Programming Warm-Up
+        Due:	02/03/2019
 
 # 3.
 ## E.
